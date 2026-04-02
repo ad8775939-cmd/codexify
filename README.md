@@ -1,5 +1,3 @@
-# codexify
-we read your online business
 <!DOCTYPE html>
 <html lang="en">
 <head>
